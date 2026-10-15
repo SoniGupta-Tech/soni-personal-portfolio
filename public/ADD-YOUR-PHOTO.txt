@@ -1,0 +1,2 @@
+Copy your portrait photo into this folder and name it profile-photo.jpg.
+The final path should be public/profile-photo.jpg.
